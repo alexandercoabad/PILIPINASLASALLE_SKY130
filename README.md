@@ -1,8 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# PILIPINASLASALLE_SKY130
 
-- [Read the documentation for project](docs/info.md)
+PILIPINASLASALLE_SKY130 based from Tiny Tapeout nVious Graphics Project of James Ross
 
 ## What is Tiny Tapeout?
 
